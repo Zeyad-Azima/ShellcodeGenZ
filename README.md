@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/8ba517e4-acfd-4162-9720-fe8ec78af641)
 ![image](https://github.com/user-attachments/assets/8984c1dc-53f4-4f5b-b887-653461ee312e)
 
-Yo, welcome to ShellcodeGenZ, the dopest shellcode generator for commands, crafted by the legend Zeyad Azima (https://zeyadazima.com - contact@zeyadazima.com). This tool's straight-up slayin' the game by whippin' up clean shellcode, yeetin' bad chars like nobody's biz, and droppin' logs so you know what's poppin'. Built with Gen-Z energy, it's got manual and auto modes to fix bad chars, checks for 0x00 like a boss, and keeps the vibes no cap. This is your go-to for shellcode that slaps.
+Yo, welcome to ShellcodeGenZ, the dopest shellcode generator for commands, crafted by Zeyad Azima (https://zeyadazima.com - contact@zeyadazima.com). This tool's straight-up slayin' the game by whippin' up clean shellcode, yeetin' bad chars like nobody's biz, and droppin' logs so you know what's poppin'. Built with Gen-Z energy, it's got manual and auto modes to fix bad chars, checks for 0x00 like a boss, and keeps the vibes no cap. This is your go-to for shellcode that slaps.
 
 ## What's the Vibe?
 
